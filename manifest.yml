@@ -1,1 +1,4 @@
-
+---
+applications:
+- name: boshapp
+  buildpack: staticfile_buildpack
